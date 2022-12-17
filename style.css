@@ -245,6 +245,9 @@
     font-size: 1.5rem;
     color: rgb(210, 210, 210);
   }
+  .blue{
+    z-index: 1;
+  }
 
   /* sixth page */
   .sixth-page {
